@@ -1906,5 +1906,47 @@
     "url": "https://www.eventbrite.com/o/ecstatic-dance-orlando",
     "source": "Ecstatic Dance Orlando",
     "code": 218
+  },
+  {
+    "id": "goblin-market-orlando",
+    "title": "Goblin Market — Discount Art Mart",
+    "category": "craft",
+    "date": "recurring",
+    "when": "Roughly monthly, 1-7 PM (themed each time — check site for next date)",
+    "location": "Oviedo Mall parking lot/interior, Oviedo",
+    "area": "near home",
+    "cost": "Free admission",
+    "blurb": "Orlando's discount/deadstock/misprint art & vintage market — trading, cosplay, crafting, food trucks, live music and performances. Nonprofit-run, free to attend.",
+    "url": "https://www.goblinmarketfl.com/events",
+    "source": "goblinmarketfl.com",
+    "code": 221
+  },
+  {
+    "id": "orlando-oddities-curiosities-market",
+    "title": "Orlando Oddities and Curiosities Market",
+    "category": "collectors",
+    "date": "recurring",
+    "when": "Annual, late June, 11 AM-6/7 PM",
+    "location": "Event Center at Osceola Heritage Park, 1901 Chief Osceola Trail, Kissimmee",
+    "area": "",
+    "cost": "$16/adult, kids under 13 free",
+    "blurb": "Florida's largest oddities event — 200+ vendors of taxidermy, morbid antiques, wet specimens and curiosity-shop art, plus sideshow performances (Dead City Circus, The Lizard Man) and taxidermy classes.",
+    "url": "https://theodditiesmuseum.org/calendar-of-events/the-orlando-oddities-and-curiosities-market-1",
+    "source": "theodditiesmuseum.org / gottagoorlando.com",
+    "code": 222
+  },
+  {
+    "id": "old-town-kissimmee-saturday-cruise",
+    "title": "Old Town Kissimmee Saturday Night Classic Car Cruise",
+    "category": "moto",
+    "date": "recurring-saturday",
+    "when": "Every Saturday, register 1:00-7:30 PM, cruise 7-11 PM",
+    "location": "Old Town Entertainment District, 5770 W Irlo Bronson Memorial Hwy, Kissimmee",
+    "area": "",
+    "cost": "Free to spectate",
+    "blurb": "Nearly 35-year tradition — up to 250 pre-1985 hot rods, classics and antiques registered on-site, cruising Old Town's brick streets to live music. Monthly $1,000 cash giveaway for entrants.",
+    "url": "https://www.myoldtownusa.com/car-shows-events",
+    "source": "myoldtownusa.com / experiencekissimmee.com",
+    "code": 223
   }
 ]
